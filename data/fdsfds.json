@@ -1,0 +1,35 @@
+{
+  "name": "",
+  "type": "personal",
+  "bio": "**Your Bio**",
+
+  "tags": ["Open Source", "DevOps", "Web Dev"],
+
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/<Your Twitter Username>" },
+    { "icon": "FaGithub", "url": "https://github.com/<Your GitHub Username>" }
+  ],
+
+  "links": [
+    {
+      "name": "GitHub: Let's collaborate",
+      "url": "https://github.com/<Your GitHub Username>",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/<Your Twitter Username>",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkedIn: Let's connect",
+      "url": "Your Linkedin Profile URL",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/<Your Instagram Username>",
+      "icon": "FaInstagram"
+    }
+  ]
+}
